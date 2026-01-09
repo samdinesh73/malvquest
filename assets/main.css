@@ -6004,7 +6004,9 @@ body {
   .\!w-full {
     width: 100% !important;
   }
+.w-half{
 
+}
   .w-0 {
     width: calc(var(--spacing) * 0);
   }
